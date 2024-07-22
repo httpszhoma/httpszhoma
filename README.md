@@ -35,8 +35,7 @@ Tools:
 Currently, I am deeply engaged in mastering Java and the Spring framework. I am working on various projects that leverage these technologies to create powerful backend solutions. My goal is to gain comprehensive knowledge and hands-on experience to become proficient in developing enterprise-level applications.
 
 
-### 🌐 **Connect with Me:**
-
-- **LinkedIn:** [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/zhomart-turtan-aa4105293/) [https://www.linkedin.com/in/zhomart-turtan-aa4105293/](https://www.linkedin.com/in/zhomart-turtan-aa4105293/)
-- **LeetCode:** [![LeetCode](https://img.icons8.com/ios-filled/50/000000/leetcode.png)](https://leetcode.com/u/zhoma/) [https://leetcode.com/u/zhoma/](https://leetcode.com/u/zhoma/)
+🌐 Connect with Me:
+LinkedIn: Turtan Zhomart
+LeetCode: zhoma
 
