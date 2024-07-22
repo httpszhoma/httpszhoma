@@ -1,16 +1,17 @@
-## Hi there 👋
+👤 Zhomart
+🎓 Student at SDU University
+💻 Aspiring Backend Developer
 
-<!--
-**httpszhoma/httpszhoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me:
+I am a dedicated student at SDU University with a keen interest in backend development. My journey into the world of coding has been driven by a passion for building robust, scalable, and efficient backend systems. I thrive on solving complex problems and enjoy the challenge of optimizing server-side logic and database interactions.
 
-Here are some ideas to get you started:
+🌟 Technical Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Java, Golang
+Frameworks: Spring, Hibernate
+Databases: Postgres,My SQL
+Tools: Git, Docker, Maven
+
+
+🚀 Current Focus:
+Currently, I am deeply engaged in mastering Java and the Spring framework. I am working on various projects that leverage these technologies to create powerful backend solutions. My goal is to gain comprehensive knowledge and hands-on experience to become proficient in developing enterprise-level applications.
