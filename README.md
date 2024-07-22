@@ -16,26 +16,18 @@ Programming Languages:
 
 Frameworks:
 
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" width="48" height="48"> 
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" height="48"> <img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" alt="Hibernate" width="48" height="48"> 
 
 
 Databases:
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"> <img src="https://images.freeimages.com/fic/images/icons/977/rrze/720/database_postgres.png" alt="PostgreSQL" width="48" height="48">
 
 
 
 Tools:
 
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"> 
-<img src="[https://www.svgrepo.com/show/354051/maven.svg" alt="Maven" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"> 
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="48" height="48"> 
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="48" height="48"> 
 
 
 
