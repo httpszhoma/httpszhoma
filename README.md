@@ -16,18 +16,18 @@ Programming Languages:
 
 Frameworks:
 
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" height="48"> <img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" alt="Hibernate" width="48" height="48"> 
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" height="48">      <img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" alt="Hibernate" width="48" height="48"> 
 
 
 Databases:
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"> <img src="https://images.freeimages.com/fic/images/icons/977/rrze/720/database_postgres.png" alt="PostgreSQL" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48">       <img src="https://images.freeimages.com/fic/images/icons/977/rrze/720/database_postgres.png" alt="PostgreSQL" width="48" height="48">
 
 
 
 Tools:
 
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="48" height="48"> 
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48">     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48">    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48">   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48">   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="48" height="48"> 
 
 
 
@@ -35,7 +35,8 @@ Tools:
 Currently, I am deeply engaged in mastering Java and the Spring framework. I am working on various projects that leverage these technologies to create powerful backend solutions. My goal is to gain comprehensive knowledge and hands-on experience to become proficient in developing enterprise-level applications.
 
 
-🌐 Connect with Me:
-LinkedIn: Turtan Zhomart
-LeetCode: zhoma
+LinkedIn: [Turtan Zhomart](https://www.linkedin.com/in/zhomart-turtan-aa4105293/)
+
+
+LeetCode: [zhoma](https://leetcode.com/u/zhoma/)
 
