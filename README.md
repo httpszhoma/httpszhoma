@@ -1,6 +1,7 @@
 👤 Zhomart
 
 🎓 Student at SDU University
+
 💻 Aspiring Backend Developer
 
 🔍 About Me:
@@ -12,6 +13,24 @@ Programming Languages: Java, Golang
 Frameworks: Spring, Hibernate
 Databases: Postgres,My SQL
 Tools: Git, Docker, Maven
+🧰 Languages and Tools
+Java
+
+Spring
+
+Git
+
+Linux
+
+HTML
+
+CSS
+
+GitHub
+
+
+
+
 
 
 🚀 Current Focus:
