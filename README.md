@@ -57,7 +57,7 @@ I am a dedicated student at SDU University with a keen interest in backend devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
-Frameworks:
+<h2 align="left">Frameworks</h2>
 
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" height="48">      <img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" alt="Hibernate" width="48" height="48"> 
 
@@ -126,7 +126,9 @@ Frameworks:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
-
+<br></br>
+<br></br>
+<br></br>
 🚀 Current Focus:
 Currently, I am deeply engaged in mastering Java and the Spring framework. I am working on various projects that leverage these technologies to create powerful backend solutions. My goal is to gain comprehensive knowledge and hands-on experience to become proficient in developing enterprise-level applications.
 
