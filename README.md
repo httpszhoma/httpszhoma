@@ -127,8 +127,7 @@ I am a dedicated student at SDU University with a keen interest in backend devel
 </div>
 
 <br></br>
-<br></br>
-<br></br>
+
 🚀 Current Focus:
 Currently, I am deeply engaged in mastering Java and the Spring framework. I am working on various projects that leverage these technologies to create powerful backend solutions. My goal is to gain comprehensive knowledge and hands-on experience to become proficient in developing enterprise-level applications.
 
