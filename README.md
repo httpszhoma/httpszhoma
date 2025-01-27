@@ -72,7 +72,7 @@ Frameworks:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-   <img src="https://iconduck.com/icons/13186/redis-original-wordmark" height="40" alt="redis logo"  />
+   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
 </div>
