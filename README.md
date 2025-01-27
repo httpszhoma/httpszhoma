@@ -62,9 +62,23 @@ Frameworks:
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48" height="48">      <img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" alt="Hibernate" width="48" height="48"> 
 
 
-Databases:
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48">       <img src="https://images.freeimages.com/fic/images/icons/977/rrze/720/database_postgres.png" alt="PostgreSQL" width="48" height="48">
+<h2 align="left">Database</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+   <img src="https://iconduck.com/icons/13186/redis-original-wordmark" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+</div>
+
+
+###
 
 
 
