@@ -7,11 +7,19 @@
 🔍 About Me:
 I am a dedicated student at SDU University with a keen interest in backend development. My journey into the world of coding has been driven by a passion for building robust, scalable, and efficient backend systems. I thrive on solving complex problems and enjoy the challenge of optimizing server-side logic and database interactions.
 
-🌟 Technical Skills:
+🌟 <h1 align="left">Technical Skills:</h1>
 
-Programming Languages:
+<h2 align="left">Backend Development</h2>
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="48" height="48"> 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+ 
+</div>
+
+###
 
 <h2 align="left">Frontend Development</h2>
 
