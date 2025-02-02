@@ -1,13 +1,13 @@
-<h2>👤 Zhomart Turtan</h2>
+<h2>👤 Hi! I am Zhomart Turtan</h2>
 
+
+LinkedIn: [Turtan Zhomart](https://www.linkedin.com/in/zhomart-turtan-aa4105293/)
+
+
+LeetCode: [zhoma](https://leetcode.com/u/zhoma/)
 🎓 Student at SDU University
 
-💻 Aspiring Backend Developer
-
-🔍 About Me:
-I am a dedicated student at SDU University with a keen interest in backend development. My journey into the world of coding has been driven by a passion for building robust, scalable, and efficient backend systems. I thrive on solving complex problems and enjoy the challenge of optimizing server-side logic and database interactions.
-
-<h1 align="left">Technical Skills:</h1>
+💻  Backend Developer
 
 <h2 align="left">Backend Development</h2>
 
@@ -131,9 +131,4 @@ I am a dedicated student at SDU University with a keen interest in backend devel
 🚀 Current Focus:
 Currently, I am deeply engaged in mastering Java and the Spring framework. I am working on various projects that leverage these technologies to create powerful backend solutions. My goal is to gain comprehensive knowledge and hands-on experience to become proficient in developing enterprise-level applications.
 
-
-LinkedIn: [Turtan Zhomart](https://www.linkedin.com/in/zhomart-turtan-aa4105293/)
-
-
-LeetCode: [zhoma](https://leetcode.com/u/zhoma/)
 
