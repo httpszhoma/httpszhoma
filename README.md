@@ -5,8 +5,6 @@ LinkedIn: [Turtan Zhomart](https://www.linkedin.com/in/zhomart-turtan-aa4105293/
 
 🎓 Student at SDU University
 
-💻  Backend Developer
-
 <h2 align="left">Backend Development</h2>
 
 ###
