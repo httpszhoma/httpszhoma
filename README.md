@@ -1,7 +1,7 @@
 <h2>👤 Hi! I am Zhomart Turtan</h2>
 
 
-LinkedIn: [Turtan Zhomart](https://www.linkedin.com/in/zhomart-turtan-aa4105293/)     LeetCode: [zhoma](https://leetcode.com/u/zhoma/)
+LinkedIn: [Turtan Zhomart] (https://www.linkedin.com/in/zhomart-turtan-aa4105293/)     LeetCode: [zhoma](https://leetcode.com/u/zhoma/)
 
 🎓 Student at SDU University
 
